@@ -28,3 +28,15 @@ if ((person >= 14) && (person <= 19)) {
 } else {
     console.log("Not eligible")
 }
+
+// Loops 
+for (var i = 0; i <= 10; i++) {
+    console.log(i);
+}
+
+var n = 0;
+
+while (n < 10) {
+    n++;
+    console.log(n);
+}
