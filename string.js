@@ -1,6 +1,6 @@
 var abc = "imnoaspdsdjaisdnjijnsda";
 
-var esx = "I don\;t \n know"; // \n new line
+var esx = "I don\t \n know"; // \n new line
 
 var len = abc.length; // string length
 
