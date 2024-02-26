@@ -5,7 +5,7 @@ const age = 30;
 const name = "Jane";
 
 // object
-const fullName = {first: 'Jane', last: 'Doe'};
+const fullName = { first: 'Jane', last: 'Doe' };
 
 // boolean
 const truth = true || false;
@@ -18,3 +18,13 @@ var a; typeof a;
 
 // value
 var a = null;
+
+// if - else statement 
+
+const person = 18;
+
+if ((person >= 14) && (person <= 19)) {
+    console.log("Eligible");
+} else {
+    console.log("Not eligible")
+}
